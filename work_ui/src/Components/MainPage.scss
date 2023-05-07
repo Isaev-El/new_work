@@ -1,0 +1,102 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500);
+$bg: #3a484b;
+$button:#e6b333;
+$border: #1a2128;
+
+
+.main-div {
+    text-align: center;
+}
+.main-page {
+    color: #000000
+}
+
+
+table {
+    border-collapse: collapse;
+    border-radius: 7px;
+    overflow: hidden;
+    box-shadow: 5px 5px 10px rgba(5, 5, 5, 5);
+    width: 100%;
+    max-width: 800px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: #1a1f25;
+    text-align: center;
+}
+
+th, tr {
+    text-align: center;
+    border: 1px solid #ccc;
+    height: 40px;
+    background-color: #f2f2f2;
+}
+
+
+td{
+    text-align: center;
+}
+
+.buttonLog {
+    float:left;
+    color:#7f8084;
+    border:1px solid $border;
+    padding:7px 15px;
+    border-radius:3px;
+    font-size:0.8em;
+    cursor:pointer;
+    margin-top: -50px;
+}
+.buttonLog:hover {
+    color: #d3d3d3;
+    cursor: pointer;
+}
+
+.buttonAdd{
+    margin-top: 50px;
+    right: 0;
+    color:#7f8084;
+    border:1px solid $border;
+    padding:7px 15px;
+    border-radius:3px;
+    font-size:0.8em;
+    cursor:pointer;
+}
+
+.buttonAdd:hover {
+    color: #d3d3d3;
+    cursor: pointer;
+}
+
+
+
+
+.buttonDelete{
+    color:#7f8084;
+    border:1px solid $border;
+    padding:7px 15px;
+    border-radius:3px;
+    font-size:0.8em;
+    cursor:pointer;
+
+}
+
+.buttonDelete:hover {
+    color: #d3d3d3;
+    cursor: pointer;
+}
+
+.buttonUpdate{
+    color:#7f8084;
+    border:1px solid $border;
+    padding:7px 15px;
+    border-radius:3px;
+    font-size:0.8em;
+    cursor:pointer;
+}
+
+.buttonUpdate:hover {
+    color: #d3d3d3;
+    cursor: pointer;
+}
