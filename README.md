@@ -1,7 +1,7 @@
 "# new_work" 
 1. Установка.
   1.1 Чтобы скачать репозиторий с проектом, нужно подготовить папку
-  и в ней через терминал прописать команду git clone https://github.com/Isaev-El/new_work/. \n
+  и в ней через терминал прописать команду git clone https://github.com/Isaev-El/new_work/.
   1.2 backend хранится в папке Work, frontend в папке work_ui. После нужно отркыть IDE (В моем случае IntelliJ IDEA 2022.2.3 - для backend
   и WebStorm 2022.3.3 для frontend).
   1.3 После запуска WebStorm 2022.3.3 в терминале вводим команду "npm i", после подгрузки необходимых компонентов 
