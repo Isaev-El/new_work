@@ -1,0 +1,3 @@
+username,email,password
+user1,gasdas@asd.asd,asdasds
+user2,gasdas2@asd.asd,asdasds2
